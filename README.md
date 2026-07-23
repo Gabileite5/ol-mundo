@@ -1,4 +1,4 @@
 # olá, mundo!
-Repositório teste
+Repositório teste.
 
-Repositório criado durante uma aula online
+Repositório criado durante uma aula online.
